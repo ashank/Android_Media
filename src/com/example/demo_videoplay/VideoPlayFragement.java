@@ -31,7 +31,7 @@ import android.widget.Toast;
 public class VideoPlayFragement extends Fragment implements Callback ,OnCompletionListener, OnPreparedListener, OnBufferingUpdateListener, OnInfoListener, OnErrorListener, OnVideoSizeChangedListener{
 	
 	private View view;
-	private String TAG="Linker";
+	private String TAG="LOG";
 	
 	//预览类
 	private SurfaceView mPreview;
