@@ -362,7 +362,6 @@ public class VideoPlayFragement extends Fragment implements Callback ,OnCompleti
 	public void onResume() {
 		// TODO Auto-generated method stub
 		Log.i(TAG, "---->VideoplayFragement   OnResume()");
-		isUrlNull=true;
 		super.onResume();
 	}
 
